@@ -1,0 +1,14 @@
+.btn-green{
+	background-color:95d7ae ;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-family: Bebas Neue, sans-serif;
+	text-decoration: none;
+
+}
+
+.btn-green:hover{
+	background-color: black;
+	color: white;
+}
